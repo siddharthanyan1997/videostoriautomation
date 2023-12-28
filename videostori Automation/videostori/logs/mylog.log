@@ -1,0 +1,113 @@
+[INFO ] 2023-12-27 11:01:56.780 [main] videostori - url opened
+[INFO ] 2023-12-27 11:05:50.626 [main] videostori - url opened
+[INFO ] 2023-12-27 11:08:08.665 [main] videostori - url opened
+[INFO ] 2023-12-27 11:23:21.232 [main] videostori - url opened
+[INFO ] 2023-12-27 11:25:24.949 [main] videostori - url opened
+[INFO ] 2023-12-27 11:49:26.363 [main] videostori - url opened
+[INFO ] 2023-12-27 12:50:11.845 [main] videostori - User is at login page
+[INFO ] 2023-12-27 12:53:50.850 [main] videostori - User is at login page
+[INFO ] 2023-12-27 13:00:17.069 [main] videostori - User is at login page
+[INFO ] 2023-12-27 13:58:48.109 [main] videostori - User is at login page
+[INFO ] 2023-12-27 13:59:19.357 [main] videostori - User is at login page
+[INFO ] 2023-12-27 17:24:43.142 [main] videostori - User is at login page
+[INFO ] 2023-12-27 17:24:46.801 [main] videostori - User is at usermanagement page
+[INFO ] 2023-12-27 17:52:47.612 [main] videostori - User is at login page
+[INFO ] 2023-12-27 17:52:51.359 [main] videostori - User is at usermanagement page
+[INFO ] 2023-12-27 17:54:06.601 [main] videostori - User is at login page
+[INFO ] 2023-12-27 17:54:11.565 [main] videostori - User is at usermanagement page
+[INFO ] 2023-12-27 17:55:27.310 [main] videostori - User is at login page
+[INFO ] 2023-12-27 17:55:32.641 [main] videostori - User is at usermanagement page
+[INFO ] 2023-12-27 17:57:00.780 [main] videostori - User is at login page
+[INFO ] 2023-12-27 17:57:06.483 [main] videostori - User is at usermanagement page
+[INFO ] 2023-12-27 18:14:16.396 [main] videostori - User is at login page
+[INFO ] 2023-12-27 18:14:21.961 [main] videostori - User is at usermanagement page
+[INFO ] 2023-12-27 18:15:18.351 [main] videostori - User is at login page
+[INFO ] 2023-12-27 18:15:23.845 [main] videostori - User is at usermanagement page
+[INFO ] 2023-12-27 18:19:28.282 [main] videostori - User is at login page
+[INFO ] 2023-12-27 18:19:33.962 [main] videostori - User is at usermanagement page
+[INFO ] 2023-12-27 18:22:19.633 [main] videostori - User is at login page
+[INFO ] 2023-12-27 18:22:24.510 [main] videostori - User is at usermanagement page
+[INFO ] 2023-12-28 10:32:06.343 [main] videostori - url opened
+[INFO ] 2023-12-28 10:32:08.537 [main] videostori - Click on TryForFree button
+[INFO ] 2023-12-28 10:32:08.801 [main] videostori - First name Testing
+[INFO ] 2023-12-28 10:32:08.993 [main] videostori - last name Siddharth 
+[INFO ] 2023-12-28 10:32:09.217 [main] videostori - Email Address siddharthtest@gmail.com
+[INFO ] 2023-12-28 10:32:09.347 [main] videostori - Mobile Number 7018805794
+[INFO ] 2023-12-28 10:32:09.469 [main] videostori - Pwd Sid@1234
+[INFO ] 2023-12-28 10:32:09.610 [main] videostori - Confirm Pwd Sid@1234
+[INFO ] 2023-12-28 10:32:09.832 [main] videostori - Clicked on terms
+[INFO ] 2023-12-28 10:32:09.987 [main] videostori - Clicked on agree terms
+[INFO ] 2023-12-28 10:32:12.102 [main] videostori - Clicked on signupbtn
+[INFO ] 2023-12-28 10:33:01.888 [main] videostori - User is at login page
+[INFO ] 2023-12-28 10:33:03.838 [main] videostori - LogIn button clicked
+[INFO ] 2023-12-28 10:33:04.160 [main] videostori - Email Address siddharth.anyan@msdi.in
+[INFO ] 2023-12-28 10:33:04.343 [main] videostori - login password Msdi@1234
+[INFO ] 2023-12-28 10:33:04.470 [main] videostori - login button clicked for login
+[INFO ] 2023-12-28 12:37:06.842 [main] videostori - User is at login page
+[INFO ] 2023-12-28 12:37:08.876 [main] videostori - LogIn button clicked
+[INFO ] 2023-12-28 12:37:09.173 [main] videostori - Email Address siddharth.anyan@msdi.in
+[INFO ] 2023-12-28 12:37:09.353 [main] videostori - login password Msdi@1234
+[INFO ] 2023-12-28 12:37:09.453 [main] videostori - login button clicked for login
+[INFO ] 2023-12-28 12:37:11.483 [main] videostori - User is at video management page
+[INFO ] 2023-12-28 12:42:07.490 [main] videostori - User is at login page
+[INFO ] 2023-12-28 12:42:09.619 [main] videostori - LogIn button clicked
+[INFO ] 2023-12-28 12:42:10.015 [main] videostori - Email Address siddharth.anyan@msdi.in
+[INFO ] 2023-12-28 12:42:10.193 [main] videostori - login password Msdi@1234
+[INFO ] 2023-12-28 12:42:10.292 [main] videostori - login button clicked for login
+[INFO ] 2023-12-28 12:42:12.325 [main] videostori - User is at video management page
+[INFO ] 2023-12-28 12:42:12.428 [main] videostori - Video Management clicked
+[INFO ] 2023-12-28 12:42:12.599 [main] videostori - Import Video Menu clicked
+[INFO ] 2023-12-28 12:42:12.877 [main] videostori - MP4 videoType selected
+[INFO ] 2023-12-28 12:42:13.150 [main] videostori - video title Video 28 dec 2023 entered
+[INFO ] 2023-12-28 12:42:13.315 [main] videostori - Set Expiry Date clicked
+[INFO ] 2023-12-28 12:42:13.568 [main] videostori - Set Expiry Month March
+[INFO ] 2023-12-28 12:42:13.787 [main] videostori - Set Expiry year 2025
+[INFO ] 2023-12-28 12:43:44.596 [main] videostori - User is at login page
+[INFO ] 2023-12-28 12:43:46.687 [main] videostori - LogIn button clicked
+[INFO ] 2023-12-28 12:43:47.017 [main] videostori - Email Address siddharth.anyan@msdi.in
+[INFO ] 2023-12-28 12:43:47.205 [main] videostori - login password Msdi@1234
+[INFO ] 2023-12-28 12:43:47.286 [main] videostori - login button clicked for login
+[INFO ] 2023-12-28 12:43:49.304 [main] videostori - User is at video management page
+[INFO ] 2023-12-28 12:43:49.392 [main] videostori - Video Management clicked
+[INFO ] 2023-12-28 12:43:49.555 [main] videostori - Import Video Menu clicked
+[INFO ] 2023-12-28 12:43:49.823 [main] videostori - MP4 videoType selected
+[INFO ] 2023-12-28 12:43:50.083 [main] videostori - video title Video 28 dec 2023 entered
+[INFO ] 2023-12-28 12:43:50.241 [main] videostori - Set Expiry Date clicked
+[INFO ] 2023-12-28 12:43:50.508 [main] videostori - Set Expiry Month March
+[INFO ] 2023-12-28 12:43:50.708 [main] videostori - Set Expiry year 2025
+[INFO ] 2023-12-28 12:45:32.477 [main] videostori - User is at login page
+[INFO ] 2023-12-28 12:45:34.521 [main] videostori - LogIn button clicked
+[INFO ] 2023-12-28 12:45:34.816 [main] videostori - Email Address siddharth.anyan@msdi.in
+[INFO ] 2023-12-28 12:45:34.992 [main] videostori - login password Msdi@1234
+[INFO ] 2023-12-28 12:45:35.096 [main] videostori - login button clicked for login
+[INFO ] 2023-12-28 12:45:37.136 [main] videostori - User is at video management page
+[INFO ] 2023-12-28 12:45:37.233 [main] videostori - Video Management clicked
+[INFO ] 2023-12-28 12:45:37.405 [main] videostori - Import Video Menu clicked
+[INFO ] 2023-12-28 12:45:37.677 [main] videostori - MP4 videoType selected
+[INFO ] 2023-12-28 12:45:37.955 [main] videostori - video title Video 28 dec 2023 entered
+[INFO ] 2023-12-28 12:45:38.098 [main] videostori - Set Expiry Date clicked
+[INFO ] 2023-12-28 12:45:38.383 [main] videostori - Set Expiry Month March
+[INFO ] 2023-12-28 12:45:38.643 [main] videostori - Set Expiry year 2025
+[INFO ] 2023-12-28 12:45:38.743 [main] videostori - Set Expiry date is 1
+[INFO ] 2023-12-28 12:45:39.061 [main] videostori - Description is This is for testing purpose
+[INFO ] 2023-12-28 12:45:39.212 [main] videostori - Video Tags is #facebook
+[INFO ] 2023-12-28 12:45:39.331 [main] videostori - Aspect ratio 16:9 is selected
+[INFO ] 2023-12-28 12:47:57.719 [main] videostori - User is at login page
+[INFO ] 2023-12-28 12:47:59.653 [main] videostori - LogIn button clicked
+[INFO ] 2023-12-28 12:47:59.986 [main] videostori - Email Address siddharth.anyan@msdi.in
+[INFO ] 2023-12-28 12:48:00.198 [main] videostori - login password Msdi@1234
+[INFO ] 2023-12-28 12:48:00.301 [main] videostori - login button clicked for login
+[INFO ] 2023-12-28 12:48:02.337 [main] videostori - User is at video management page
+[INFO ] 2023-12-28 12:48:02.438 [main] videostori - Video Management clicked
+[INFO ] 2023-12-28 12:48:02.603 [main] videostori - Import Video Menu clicked
+[INFO ] 2023-12-28 12:48:02.873 [main] videostori - MP4 videoType selected
+[INFO ] 2023-12-28 12:48:03.145 [main] videostori - video title Video 28 dec 2023 entered
+[INFO ] 2023-12-28 12:48:03.288 [main] videostori - Set Expiry Date clicked
+[INFO ] 2023-12-28 12:48:03.571 [main] videostori - Set Expiry Month March
+[INFO ] 2023-12-28 12:48:03.791 [main] videostori - Set Expiry year 2025
+[INFO ] 2023-12-28 12:48:03.865 [main] videostori - Set Expiry date is 1
+[INFO ] 2023-12-28 12:48:04.168 [main] videostori - Description is This is for testing purpose
+[INFO ] 2023-12-28 12:48:04.312 [main] videostori - Video Tags is #facebook
+[INFO ] 2023-12-28 12:48:04.445 [main] videostori - Aspect ratio 16:9 is selected
+[INFO ] 2023-12-28 12:48:04.491 [main] videostori - Video uploaded name is Ad 34. Act II Pop Corn
+[INFO ] 2023-12-28 12:48:06.590 [main] videostori - Upload button clicked
